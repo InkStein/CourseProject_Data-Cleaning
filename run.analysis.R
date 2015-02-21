@@ -61,6 +61,6 @@
       tidy <- meanstdRaw %>% group_by(Activity_Description, SubjectID) %>% summarise_each(funs(mean))
           ## Create tidy data set containing the average of each variable by subject and their activity. 
       
-      write.table(x = tidy, file = "./tidy.csv", sep = ",", row.names = FALSE)
+      write.table(x = tidy, file = "./tidy.txt", sep = ",", row.names = FALSE)
           ## Write the new data.frame "tidy" to a comma separated formatted file called "tidy.csv"
           ## to the working directory.
