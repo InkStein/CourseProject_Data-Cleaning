@@ -28,35 +28,114 @@ Exact R Scripting used, as well as per line comments are included in the "run_an
 
 
 ##Variable Details
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-1. tBodyAcc-mean()-X
+tBodyAcc-mean()-X
   * Units:
   * Axis: X
   * Statistical Summary: Mean
   * Description: Body Linear Acceleration
 
 *tBodyAcc-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAcc-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAcc-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAcc-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAcc-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tGravityAcc-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tGravityAcc-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tGravityAcc-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tGravityAcc-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tGravityAcc-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tGravityAcc-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAccJerk-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tBodyAccJerk-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tBodyAccJerk-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tBodyAccJerk-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tBodyAccJerk-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tBodyAccJerk-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyro-mean()-X
 *tBodyGyro-mean()-Y
 *tBodyGyro-mean()-Z
