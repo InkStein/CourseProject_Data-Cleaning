@@ -28,7 +28,10 @@ Exact R Scripting used, as well as per line comments are included in the "run_an
 
 
 ##Variable Details 
-### (86 total)
+##### (86 total)
+
+_Please note, these descriptions may not be entirely accurate due to lack of field experience. Please refer to the UCI link above for more details._
+
 
 **Variable**|**Axis**|**Statistical Summary**|**Description**
 ------------|--------|-----------------------|---------------
