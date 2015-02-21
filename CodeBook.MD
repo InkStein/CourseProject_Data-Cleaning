@@ -137,70 +137,408 @@ tBodyAcc-mean()-X
   * Description: Body Linear Acceleration
   
 *tBodyGyro-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyro-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyro-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyro-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyro-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyro-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *tBodyGyroJerk-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerk-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerk-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerk-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerk-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerk-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAccMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAccMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tGravityAccMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tGravityAccMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAccJerkMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyAccJerkMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroMag-mean()
-*tBodyGyroMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+*tBodyGyroMag-std()  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerkMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *tBodyGyroJerkMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *fBodyAcc-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *fBodyAcc-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *fBodyAcc-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *fBodyAcc-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *fBodyAcc-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *fBodyAcc-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
 *fBodyAcc-meanFreq()-X
-*fBodyAcc-meanFreq()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAcc-meanFreq()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
 *fBodyAcc-meanFreq()-Z
-*fBodyAccJerk-mean()-X
-*fBodyAccJerk-mean()-Y
-*fBodyAccJerk-mean()-Z
-*fBodyAccJerk-std()-X
-*fBodyAccJerk-std()-Y
-*fBodyAccJerk-std()-Z
-*fBodyAccJerk-meanFreq()-X
-*fBodyAccJerk-meanFreq()-Y
-*fBodyAccJerk-meanFreq()-Z
-*fBodyGyro-mean()-X
-*fBodyGyro-mean()-Y
-*fBodyGyro-mean()-Z
-*fBodyGyro-std()-X
-*fBodyGyro-std()-Y
-*fBodyGyro-std()-Z
-*fBodyGyro-meanFreq()-X
-*fBodyGyro-meanFreq()-Y
-*fBodyGyro-meanFreq()-Z
-*fBodyAccMag-mean()
-*fBodyAccMag-std()
-*fBodyAccMag-meanFreq()
-*fBodyBodyAccJerkMag-mean()
-*fBodyBodyAccJerkMag-std()
-*fBodyBodyAccJerkMag-meanFreq()
-*fBodyBodyGyroMag-mean()
-*fBodyBodyGyroMag-std()
-*fBodyBodyGyroMag-meanFreq()
-*fBodyBodyGyroJerkMag-mean()
-*fBodyBodyGyroJerkMag-std()
-*fBodyBodyGyroJerkMag-meanFreq()
-*angle(tBodyAccMean,gravity)
-*angle(tBodyAccJerkMean),gravityMean)
-*angle(tBodyGyroMean,gravityMean)
-*angle(tBodyGyroJerkMean,gravityMean)
-*angle(X,gravityMean)
-*angle(Y,gravityMean)
-*angle(Z,gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+
+fBodyAccJerk-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-meanFreq()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-meanFreq()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccJerk-meanFreq()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-mean()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-mean()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-mean()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-std()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-std()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-std()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-meanFreq()-X
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-meanFreq()-Y
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyGyro-meanFreq()-Z
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyAccMag-meanFreq()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyAccJerkMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyAccJerkMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyAccJerkMag-meanFreq()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyGyroMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyGyroMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyGyroMag-meanFreq()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyGyroJerkMag-mean()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyGyroJerkMag-std()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+fBodyBodyGyroJerkMag-meanFreq()
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(tBodyAccMean,gravity)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(tBodyAccJerkMean),gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(tBodyGyroMean,gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(tBodyGyroJerkMean,gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(X,gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(Y,gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
+  
+angle(Z,gravityMean)
+  * Units:
+  * Axis: X
+  * Statistical Summary: Mean
+  * Description: Body Linear Acceleration
