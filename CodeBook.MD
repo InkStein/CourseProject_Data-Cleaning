@@ -28,7 +28,7 @@ Exact R Scripting used, as well as per line comments are included in the "run_an
 
 
 ##Variable Details
-*tBodyAcc-mean()-X
+1 tBodyAcc-mean()-X
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Units:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Axis: X
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statistical Summary: Mean
