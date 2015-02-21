@@ -35,11 +35,11 @@ Exact R Scripting used, as well as per line comments are included in the "run_an
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-1.tBodyAcc-mean()-X
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Units:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Axis: X
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statistical Summary: Mean
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description: Body Linear Acceleration
+**tBodyAcc-mean()-X**
+Units:
+Axis: X
+Statistical Summary: Mean
+_Description_: Body Linear Acceleration
 
 *tBodyAcc-mean()-Y
 *tBodyAcc-mean()-Z
