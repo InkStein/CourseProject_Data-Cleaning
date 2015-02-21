@@ -28,12 +28,11 @@ Exact R Scripting used, as well as per line comments are included in the "run_an
 
 
 ##Variable Details
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 **tBodyAcc-mean()-X**
 Units:
