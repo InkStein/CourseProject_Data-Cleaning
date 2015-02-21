@@ -30,518 +30,91 @@ Exact R Scripting used, as well as per line comments are included in the "run_an
 ##Variable Details 
 ### (86 total)
 
-tBodyAcc-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-tBodyAcc-mean()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-tBodyAcc-mean()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-tBodyAcc-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-  
-tBodyAcc-std()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-  
-tBodyAcc-std()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-
-tGravityAcc-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-tGravityAcc-mean()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-tGravityAcc-mean()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-tGravityAcc-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-
-tGravityAcc-std()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-  
-tGravityAcc-std()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-  
-tBodyAccJerk-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-tBodyAccJerk-mean()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-tBodyAccJerk-mean()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-tBodyAccJerk-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-
-tBodyAccJerk-std()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-
-tBodyAccJerk-std()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Standard Deviation
-  * Description: Body Linear Acceleration
-  
-tBodyGyro-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Angular Velocity
-  
-tBodyGyro-mean()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Mean
-  * Description: Angular Velocity
-  
-tBodyGyro-mean()-Z
-  * Units:
-  * Axis: Z
-  * Statistical Summary: Mean
-  * Description: Angular Velocity
-  
-tBodyGyro-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Angular Velocity
-  
-tBodyGyro-std()-Y
-  * Units:
-  * Axis: Y
-  * Statistical Summary: Standard Deviation
-  * Description: Angular Velocity
-  
-  ## RESUME HERE
-*tBodyGyro-std()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-*tBodyGyroJerk-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerk-mean()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerk-mean()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerk-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerk-std()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerk-std()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyAccMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyAccMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tGravityAccMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tGravityAccMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyAccJerkMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyAccJerkMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroMag-std()  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerkMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*tBodyGyroJerkMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*fBodyAcc-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*fBodyAcc-mean()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*fBodyAcc-mean()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-*fBodyAcc-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-*fBodyAcc-std()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-*fBodyAcc-std()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-*fBodyAcc-meanFreq()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAcc-meanFreq()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-*fBodyAcc-meanFreq()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-
-fBodyAccJerk-mean()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-mean()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-std()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-std()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-meanFreq()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-meanFreq()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccJerk-meanFreq()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-mean()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-mean()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-mean()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-std()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-std()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-std()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-meanFreq()-X
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-meanFreq()-Y
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyGyro-meanFreq()-Z
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyAccMag-meanFreq()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyAccJerkMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyAccJerkMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyAccJerkMag-meanFreq()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyGyroMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyGyroMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyGyroMag-meanFreq()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyGyroJerkMag-mean()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyGyroJerkMag-std()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-fBodyBodyGyroJerkMag-meanFreq()
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(tBodyAccMean,gravity)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(tBodyAccJerkMean),gravityMean)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(tBodyGyroMean,gravityMean)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(tBodyGyroJerkMean,gravityMean)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(X,gravityMean)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(Y,gravityMean)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
-  
-angle(Z,gravityMean)
-  * Units:
-  * Axis: X
-  * Statistical Summary: Mean
-  * Description: Body Linear Acceleration
+**Variable**|**Axis**|**Statistical Summary**|**Description**
+------------|--------|-----------------------|---------------
+**tBodyAcc-mean()-X**|X|Mean|Time Domain of Body Acceleration
+**tBodyAcc-mean()-Y**|Y|Mean|Time Domain of Body Acceleration
+**tBodyAcc-mean()-Z**|Z|Mean|Time Domain of Body Acceleration
+**tBodyAcc-std()-X**|X|Standard Deviation|Time Domain of Body Acceleration
+**tBodyAcc-std()-Y**|Y|Standard Deviation|Time Domain of Body Acceleration
+**tBodyAcc-std()-Z**|Z|Standard Deviation|Time Domain of Body Acceleration
+**tGravityAcc-mean()-X**|X|Mean|Time Domain of Gravity Acceleration
+**tGravityAcc-mean()-Y**|Y|Mean|Time Domain of Gravity Acceleration
+**tGravityAcc-mean()-Z**|Z|Mean|Time Domain of Gravity Acceleration
+**tGravityAcc-std()-X**|X|Standard Deviation|Time Domain of Gravity Acceleration
+**tGravityAcc-std()-Y**|Y|Standard Deviation|Time Domain of Gravity Acceleration
+**tGravityAcc-std()-Z**|Z|Standard Deviation|Time Domain of Gravity Acceleration
+**tBodyAccJerk-mean()-X**|X|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Acceleration
+**tBodyAccJerk-mean()-Y**|Y|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Acceleration
+**tBodyAccJerk-mean()-Z**|Z|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Acceleration
+**tBodyAccJerk-std()-X**|X|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Acceleration
+**tBodyAccJerk-std()-Y**|Y|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Acceleration
+**tBodyAccJerk-std()-Z**|Z|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Acceleration
+**tBodyGyro-mean()-X**|X|Mean|Time Domain of Body Gyroscopic
+**tBodyGyro-mean()-Y**|Y|Mean|Time Domain of Body Gyroscopic
+**tBodyGyro-mean()-Z**|Z|Mean|Time Domain of Body Gyroscopic
+**tBodyGyro-std()-X**|X|Standard Deviation|Time Domain of Body Gyroscopic
+**tBodyGyro-std()-Y**|Y|Standard Deviation|Time Domain of Body Gyroscopic
+**tBodyGyro-std()-Z**|Z|Standard Deviation|Time Domain of Body Gyroscopic
+**tBodyGyroJerk-mean()-X**|X|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Gyroscopic
+**tBodyGyroJerk-mean()-Y**|Y|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Gyroscopic
+**tBodyGyroJerk-mean()-Z**|Z|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Gyroscopic
+**tBodyGyroJerk-std()-X**|X|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Gyroscopic
+**tBodyGyroJerk-std()-Y**|Y|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Gyroscopic
+**tBodyGyroJerk-std()-Z**|Z|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Time Domain of Body Gyroscopic
+**tBodyAccMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Acceleration
+**tBodyAccMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Acceleration
+**tGravityAccMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Acceleration
+**tGravityAccMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Acceleration
+**tBodyAccJerkMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Acceleration
+**tBodyAccJerkMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Acceleration
+**tBodyGyroMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Gyroscopic
+**tBodyGyroMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Gyroscopic
+**tBodyGyroJerkMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Gyroscopic
+**tBodyGyroJerkMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Time Domain of Body Gyroscopic
+**fBodyAcc-mean()-X**|X|Mean|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-mean()-Y**|Y|Mean|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-mean()-Z**|Z|Mean|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-std()-X**|X|Standard Deviation|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-std()-Y**|Y|Standard Deviation|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-std()-Z**|Z|Standard Deviation|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-meanFreq()-X**|X|Mean|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-meanFreq()-Y**|Y|Mean|Fast Fourier Transformation of Body Acceleration
+**fBodyAcc-meanFreq()-Z**|Z|Mean|Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-mean()-X**|X|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-mean()-Y**|Y|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-mean()-Z**|Z|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-std()-X**|X|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-std()-Y**|Y|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-std()-Z**|Z|Standard Deviation|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-meanFreq()-X**|X|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-meanFreq()-Y**|Y|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyAccJerk-meanFreq()-Z**|Z|Mean|Jerk signals derived from the body linear acceleration and angular velocity of the Fast Fourier Transformation of Body Acceleration
+**fBodyGyro-mean()-X**|X|Mean|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-mean()-Y**|Y|Mean|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-mean()-Z**|Z|Mean|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-std()-X**|X|Standard Deviation|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-std()-Y**|Y|Standard Deviation|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-std()-Z**|Z|Standard Deviation|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-meanFreq()-X**|X|Mean|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-meanFreq()-Y**|Y|Mean|Fast Fourier Transformation of Body Gyroscopic
+**fBodyGyro-meanFreq()-Z**|Z|Mean|Fast Fourier Transformation of Body Gyroscopic
+**fBodyAccMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyAccMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyAccMag-meanFreq()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyAccJerkMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyAccJerkMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyAccJerkMag-meanFreq()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyGyroMag-mean()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyGyroMag-std()**|NA|Standard Deviation|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyGyroMag-meanFreq()**|NA|Mean|Magnitude, calculated using the Euclidean norm, from Fast Fourier Transformation of Body Acceleration
+**fBodyBodyGyroJerkMag-mean()**|NA|Mean|Jerk Signal Magnitude calculated from Fast Fourier Transformation of Body Gyroscopic
+**fBodyBodyGyroJerkMag-std()**|NA|Standard Deviation|Jerk Signal Magnitude calculated from Fast Fourier Transformation of Body Gyroscopic
+**fBodyBodyGyroJerkMag-meanFreq()**|NA|Mean|Jerk Signal Magnitude calculated from Fast Fourier Transformation of Body Gyroscopic
+**angle(tBodyAccMean,gravity)**|NA|Mean|Angle between vectors of Time Domain Body Acceleration
+**angle(tBodyAccJerkMean),gravityMean)**|NA|Mean|Angle between vectors of Jerk signals of Time Domain Body Acceleration
+**angle(tBodyGyroMean,gravityMean)**|NA|Mean|Angle between vectors of Time Domain Body Gyroscopic
+**angle(tBodyGyroJerkMean,gravityMean)**|NA|Mean|Angle between vectors of Jerk signals of Time Domain Body Gyroscopic
+**angle(X,gravityMean)**|NA|Mean|Angle between vectors of  Gravity
+**angle(Y,gravityMean)**|NA|Mean|Angle between vectors of  Gravity
+**angle(Z,gravityMean)**|NA|Mean|Angle between vectors of  Gravity
