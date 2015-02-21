@@ -1,6 +1,6 @@
 # DataCleaning
 **Variable**|**Axis**|**Statistical Summary**|**Description**
-|||
+------------|--------|-----------------------|---------------
 **tBodyAcc-mean()-X**|X|Mean| of  
 **tBodyAcc-mean()-Y**|Y|Mean| of  
 **tBodyAcc-mean()-Z**|Z|Mean| of  
